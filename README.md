@@ -5,3 +5,6 @@
           
          Find out any encrypted password with this tool made with java                                  
                     Using word list, you will be able to identify sha1 through sha256
+
+                                      Use com sabedoria!
+                                      Use wisely!
